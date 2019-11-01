@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "declaration": true,
+    "experimentalDecorators": true,
+    "module": "es6",
+    "moduleResolution": "node",
+    "outDir": "dist",
+    "removeComments": true,
+    "sourceMap": true,
+    "strictBindCallApply": true,
+    "strictNullChecks": true,
+    "target": "es6"
+  },
+  "exclude": [
+    "dist"
+  ],
+  "include": [
+    "src/**/*.ts"
+  ]
+}
