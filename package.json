@@ -1,6 +1,6 @@
 {
   "name": "@apestaartje/finite-state-machine",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A finite state machine library",
   "scripts": {
     "build": "npm run clean && node ./node_modules/.bin/tsc",
